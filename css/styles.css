@@ -14,7 +14,7 @@ body{
 header .head{
   height: 100px;
   background: yellow;
-  margin-bottom: 5px;
+  margin-bottom: 5%;
 }
 
 /*Main*/
@@ -26,35 +26,35 @@ main::after {
 
 
 .sidebar-left{
-  width: 28%;
+  width: 25%;
   height: 100px;
   background: blue;
-  margin-right: 5px;
+  margin-right: 5%;
   float: left;
 }
 
 .middle-col{
-  width: 43%;
+  width: 40%;
   height: 300px;
   background: purple;
   float: left;
 }
 
 .sidebar-right{
-  width: 28%;
+  width: 25%;
   height: 200px;
   background: pink;
-  margin-left: 5px;
-  margin-bottom: 5px;
+  margin-left: 5%;
+  margin-bottom: 5%;
   float: left;
 }
 
 .sidebar-bottom{
-  width: 28%;
+  width: 25%;
   height: 200px;
   background: pink;
-  margin-left: 5px;
-  margin-bottom: 5px;
+  margin-left: 5%;
+  margin-bottom: 5%;
   float: left;
 }
 
@@ -62,5 +62,5 @@ main::after {
 footer .foot{
   height: 50px;
   background: lightblue;
-  clear: both;
+
 }
